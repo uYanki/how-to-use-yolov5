@@ -171,7 +171,7 @@ cd /mnt/yolov5-master
 python3 train.py --weights yolov5s.pt --data data/ChineseChess/ChineseChess.yaml --workers 8 --batch-size 20 --epochs 50
 ```
 
-* data：数据集路径等参数配置文件。（打开看看就知道了）
+* data：数据集路径等参数配置文件。（需将 `demos/ChineseChess/datasets.zip` 里的内容解压到 `yolov5-master/data` 文件夹中）
 * works：使用的 GPU 核数。
 
 ![image-20221122154247517](Images/image-20221122154247517.png)
