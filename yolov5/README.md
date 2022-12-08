@@ -78,9 +78,9 @@ pip install labelimg -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 2. 运行：labelimg
 
-| Win+R                                      | CMD                                      |
-| ------------------------------------------ | ---------------------------------------- |
-| ![run_with_winr](Images/run_with_winr.png) | ![run_with_cmd](Images/run_with_cmd.png) |
+| Win+R                                                        | CMD                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![image-20221208215500836](Images/image-20221208215500836.png) | ![image-20221208215521200](Images/image-20221208215521200.png) |
 
 3. 配置
 

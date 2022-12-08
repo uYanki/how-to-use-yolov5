@@ -1,0 +1,1 @@
+MINST数据集训练过程可视化：https://www.cs.ryerson.ca/~aharley/vis/conv/
